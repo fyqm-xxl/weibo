@@ -3,7 +3,11 @@
 /public/storage
 /storage/*.key
 /vendor
+<<<<<<< HEAD
 .idea/workplace.xml
+=======
+.idea/workspace.xml
+>>>>>>> static-pages
 .env
 .env.backup
 .phpunit.result.cache
